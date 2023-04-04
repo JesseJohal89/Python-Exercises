@@ -1,0 +1,17 @@
+# Python Exercise - Block Letters
+# Jesse Johal
+
+# https://content.codecademy.com/courses/learn-cpp/hello-world/block-letters-hint.png
+# Sometimes i drink water to trick my liver
+
+name = """
+ J  J  J  J  J     J  J  J  J  J 
+       J                 J       
+       J                 J       
+       J                 J       
+ J     J           J     J      
+ J     J           J     J      
+    J  J              J  J       
+"""
+
+print(name) 
